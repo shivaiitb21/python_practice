@@ -13,3 +13,4 @@ def breakingRecords(scores):
 scores=[12,10,52,12,8,63]
 
 print(breakingRecords(scores))
+
