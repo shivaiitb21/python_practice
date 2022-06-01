@@ -16,3 +16,4 @@ def timeConversion(s):
 s = "07:25:00PM"
 
 print(timeConversion(s))
+
