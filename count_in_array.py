@@ -5,3 +5,4 @@ def lonelyinteger(a):
             return n 
 
 #Count number of instance of n in array a
+#using count function
