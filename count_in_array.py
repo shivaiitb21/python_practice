@@ -6,3 +6,16 @@ def lonelyinteger(a):
 
 #Count number of instance of n in array a
 #using count function
+
+
+
+
+
+
+
+
+
+
+
+
+
