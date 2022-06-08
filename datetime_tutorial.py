@@ -7,6 +7,4 @@ print(date.strftime("%d.%m.%y"))
 #Future date after n days
 new_date = date + timedelta(days=5)
 
-
-
 print(new_date.strftime("%j"))
