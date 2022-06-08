@@ -11,3 +11,4 @@ def sockMerchant(n, ar):
             counter = counter +l
             
     return counter
+
