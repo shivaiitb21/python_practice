@@ -1,4 +1,2 @@
-s="SOSSOSSOJ"
-sstr = s.count("S") + s.count("O")
- 
-print(sstr)
+def marsExploration(s):
+    return sum ([s[i] != "SOS"[i%3] for i in range(len(s))])
