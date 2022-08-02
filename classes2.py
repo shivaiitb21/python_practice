@@ -18,3 +18,5 @@ Rodger = Dog()
 # and method through objects
 print(Rodger.attr1)
 Rodger.fun()
+
+#done
